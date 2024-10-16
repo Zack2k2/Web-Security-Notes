@@ -1,0 +1,1 @@
+look for publically avaliable parameters in api calls

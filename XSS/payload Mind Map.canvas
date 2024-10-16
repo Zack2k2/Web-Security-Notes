@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"","id":"035715a6faef55d0","x":880,"y":-280,"width":640,"height":160,"color":"2"},
+		{"type":"file","file":"Pasted image 20230706020336.png","id":"851578e5612c79c4","x":-8480,"y":-551,"width":5779,"height":36273},
+		{"type":"file","file":"F1jowgoX0AA1Go_.jpeg","id":"49f13bce0619f253","x":-2655,"y":3840,"width":6962,"height":5040},
+		{"type":"file","file":"Pasted image 20230618061418.png","id":"2d3ca3f20f64fb27","x":160,"y":160,"width":6053,"height":3480},
+		{"type":"file","file":"Pasted image 20230625200411.png","id":"79eb47418d268b09","x":-2655,"y":160,"width":2733,"height":2400},
+		{"id":"c9b7798926cb4fda","type":"file","file":"Pasted image 20231025184931.png","x":-1760,"y":12320,"width":9120,"height":9120}
+	],
+	"edges":[
+		{"id":"580023d587954c99","fromNode":"035715a6faef55d0","fromSide":"bottom","toNode":"2d3ca3f20f64fb27","toSide":"right"}
+	]
+}
